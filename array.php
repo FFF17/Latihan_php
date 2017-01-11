@@ -45,6 +45,8 @@
 // $s =[];
 // $s['identitas']=$x;
 // $u[]=$s;
+
+	
 for ($i=0;$i <= 100; $i++){
 $u[$i]['identitas']['nama'] = 'nama'.$i;
 $u[$i]['identitas']['alamat'] = 'alamat'.$i;
